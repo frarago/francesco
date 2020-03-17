@@ -1,0 +1,76 @@
+```yaml
+name: ...asd... Vikings
+key: Vikings
+color: Violet
+emblem: Bolt_03
+info:
+   description: > 
+         A.S.D. Associazione Vikings Italia Polisport, in breve A.V.I.Pol, nasce a gennaio 2019 con lo scopo di aggregazione sportiva 
+         tramite giochi ESports da cellulare; Join us and fight for the Glory - VIKINGS
+   social:   
+     -Website:  https://www.vikingspolisport.com/
+     -Facebook: https://www.facebook.com/asdVikings/ 
+     -Twitch:   https://www.twitch.tv/vikingspolisport  
+clans:
+    - name: Vikings  
+      tag: #8JQYP0PU
+    - name: Vikings 2   
+      tag: #8U0L8U2V
+    - name: Vikings eltanin     
+      tag: #PCUU8UGL
+    - name: Vikings altair   
+      tag: #Y2CVLUQJ
+    - name: Vikings 3   
+      tag: #P9C9C9LU
+    - name: Vikings hydra   
+      tag: #Y2U0CR20
+    - name: Vikings izar   
+      tag: #YL820VLV
+    - name: Vikings 4   
+      tag: #9VLQGLYP
+    - name: Vikings electra   
+      tag: #YYLQRP8U
+    - name: Vikings polaris   
+      tag: #YUCU89JV
+    - name: Vikings 5   
+      tag: #PPCR0R89
+    - name: Vikings sirio   
+      tag: #L2U0VCCU
+    - name: Vikings vega   
+      tag: #PCUCG2CQ
+    - name: Vikings 7   
+      tag: #P0L8C89Q
+    - name: Vikings rigel   
+      tag: #PRVC2JLL
+    - name: Vikings atlas   
+      tag: #PJYGVU2U
+    - name: Vikings 8     
+      tag: #9VUJCRLV
+    - name: Vikings 9   
+      tag: #Y0PU90PU
+    - name: Vikings 10   
+      tag: #PGCLL28P
+    - name: Vikings boom   
+      tag: #9GUQGCQL
+    - name: Vikings inferno   
+      tag: #LRQG8GVG
+    - name: Vik Imperium  
+      tag: #Y29C08R8
+    - name: Vik Oblivion  
+      tag: #8C909GQR8
+    - name: Vik Ragnarok  
+      tag: #YJ9JJURG
+    - name: Vikings Honor  
+      tag: #YYV9PR0L
+    - name: Vikings Glory  
+      tag: #PVP9QLGQ
+    - name: Vik Cerberos  
+      tag: #Y2P99RC0
+    - name: Vikings Kingdom  
+      tag: #YRLPRUP2
+    - name: Vikings Blood  
+      tag: #PVPUVG2P
+    - name: Vikings giants  
+      tag: #LPJPRPU8
+    - name: Vikings Asgard  
+      tag: #PVCRC88G
